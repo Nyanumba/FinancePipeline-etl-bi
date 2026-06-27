@@ -1,7 +1,7 @@
 __pycache__/
 *.py[cod]
 *.env
-.env
+**/.env
 node_modules/
 /frontend/build
 *.log
